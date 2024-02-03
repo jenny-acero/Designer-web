@@ -453,13 +453,6 @@ img.signature{
 }
 
 
-.listing  a {
-    font-size: 14px;
-    font-weight: 700;
-    position: absolute;
-    bottom: -25px;
-}
-
 
 .listing  a:hover {
     color:#ffd42d;
